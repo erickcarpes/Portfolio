@@ -1,4 +1,4 @@
-import { Box, Heading, Text, Flex, Link, color} from "@chakra-ui/react"
+import { Box, Heading, Text, Flex, Link} from "@chakra-ui/react"
 import { keyframes } from "@emotion/react";
 import { FaGlobeAmericas } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
