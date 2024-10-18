@@ -13,7 +13,7 @@ export function Technologies(){
 
             <Grid mt={"15px"} templateColumns={["repeat(2, 1fr)", "repeat(2, 1fr)", "repeat(3, 1fr)"]} gap={"0.5rem"} h={"100%"}>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"}  minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={["0.5rem", "1rem"]} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"}  minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={["0.5rem", "1rem"]} borderRadius={"5px"}>
                     
                     <Text bg={"#7ee1fc26"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"8px"}>
                         <Flex align={"center"} justify={"center"}>
@@ -24,7 +24,7 @@ export function Technologies(){
                     <Text>React</Text>
                 </Box>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
                     
                     <Text bg={"#007acc26"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"8px"}>
                         <Flex align={"center"} justify={"center"} >
@@ -35,7 +35,7 @@ export function Technologies(){
                     <Text>Typescript</Text>
                 </Box>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
                     
                     <Text bg={"#f0db4f26"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"8px"}>
                         <Flex align={"center"} justify={"center"}>
@@ -46,7 +46,7 @@ export function Technologies(){
                     <Text>Javascript</Text>
                 </Box>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
                     
                     <Text bg={"#7ee1fc26"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"8px"}>
                         <Flex align={"center"} justify={"center"}>
@@ -57,7 +57,7 @@ export function Technologies(){
                     <Text>Chakra UI</Text>
                 </Box>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
                     
                     <Text bg={"#dd4b2526"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"8px"}>
                         <Flex align={"center"} justify={"center"}>                            
@@ -68,7 +68,7 @@ export function Technologies(){
                     <Text>HTML</Text>
                 </Box>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
                     
                     <Text bg={"#264de426"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"8px"}>
                         <Flex align={"center"} justify={"center"}>
@@ -85,7 +85,7 @@ export function Technologies(){
 
             <Grid mt={"15px"} templateColumns={["repeat(2, 1fr)", "repeat(2, 1fr)", "repeat(3, 1fr)"]} gap={"0.5rem"} h={"100%"}>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
                     
                     <Text bg={"rgba(228, 26, 26, 0.15)"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"7px"}>
                         <Flex align={"center"} justify={"center"}>
@@ -96,7 +96,7 @@ export function Technologies(){
                     <Text>Java</Text>
                 </Box>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
                     
                     <Text bg={"#007acc26"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"8px"}>
                         <Flex align={"center"} justify={"center"}>
@@ -107,7 +107,7 @@ export function Technologies(){
                     <Text>Typescript</Text>
                 </Box>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
                     
                     <Text bg={"#6fa66026"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"8px"}>
                         <Flex align={"center"} justify={"center"}>
@@ -118,7 +118,7 @@ export function Technologies(){
                     <Text>Node.js</Text>
                 </Box>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
                     
                     <Text bg={"rgba(156, 156, 156, 0.5)"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"8px"}>
                         <Flex align={"center"} justify={"center"}>
@@ -129,7 +129,7 @@ export function Technologies(){
                     <Text>Prisma</Text>
                 </Box>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
                     
                     <Text bg={"rgba(46, 205, 86, 0.1)"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"8px"}>
                         <Flex align={"center"} justify={"center"}>
@@ -146,7 +146,7 @@ export function Technologies(){
 
             <Grid mt={"15px"} templateColumns={["repeat(2, 1fr)", "repeat(2, 1fr)", "repeat(3, 1fr)"]} gap={"0.5rem"} h={"100%"}>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
                     
                     <Text bg={"#33abe326"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"8px"}>
                         <Flex align={"center"} justify={"center"}>
@@ -157,7 +157,7 @@ export function Technologies(){
                     <Text>VS CODE</Text>
                 </Box>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
                     
                     <Text bg={"rgba(156, 156, 156, 0.5)"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"8px"}>
                         <Flex align={"center"} justify={"center"}>
@@ -168,7 +168,7 @@ export function Technologies(){
                     <Text>Github</Text>
                 </Box>
 
-                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} maxW={"256px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
+                <Box bg={"rgba(95, 95, 95, 0.5)"} minW={"120px"} h={"60px"} p={"12px"} display={"flex"} alignItems={"center"} gap={"1rem"} borderRadius={"5px"}>
                     
                     <Text bg={"#dd4b2526"} w={"36px"} h={"36px"} borderRadius={"10px"} p={"7px"}>
                         <Flex align={"center"} justify={"center"} >
