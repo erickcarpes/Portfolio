@@ -35,12 +35,12 @@ export function Header(){
                         
                             <Flex gap="8px" mt={"5px"}>
 
-                                <Link href="https://www.linkedin.com/in/erick-carpes-8394b2329/" isExternal bg={"rgba(18, 40, 58, 1)"} w={"40px"} h={"40px"} p={"0px"} rounded={"6px"} display={"flex"} alignItems={"center"} justifyContent={"center"}>        
-                                    <Box as={FaLinkedin} w={"40px"} size={"22px"} color="rgb(161 161 170)" transition={"0.3"} _hover={{fill: "white"}}></Box>
+                                <Link href="https://www.linkedin.com/in/erick-carpes-8394b2329/" isExternal bg={"rgba(18, 40, 58, 1)"} w={"40px"} h={"40px"} p={"0px"} rounded={"6px"} display={"flex"} alignItems={"center"} justifyContent={"center"} _hover={{color: "white"}}>        
+                                    <Box as={FaLinkedin} w={"40px"} h={"40px"} p={"9px"} color="rgb(161 161 170)" transition={"0.3"} _hover={{fill: "white"}}></Box>
                                 </Link>
 
                                 <Link href="https://github.com/erickcarpes" isExternal bg={"rgba(18, 40, 58, 1)"} w={"40px"} h={"40px"} p={"0px"} rounded={"6px"} display={"flex"} alignItems={"center"} justifyContent={"center"}>        
-                                    <Box as={FaGithub} w={"40px"} size={"22px"} color="rgb(161 161 170)" transition={"0.3"} _hover={{fill: "white"}}></Box>
+                                    <Box as={FaGithub} w={"40px"} h={"40px"} p={"9px"} color="rgb(161 161 170)" transition={"0.3"} _hover={{fill: "white"}}></Box>
                                 </Link>
 
                             </Flex>
