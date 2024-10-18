@@ -48,7 +48,7 @@ export function Header(){
                     </Box>
 
                     <Box w={"136px"} h={"136px"} borderRadius={"50%"} overflow={"hidden"} display={"flex"} alignItems={"center"} justifyContent={"center"}>
-                        <img src="../../images/perfil.png" alt=""/>
+                        <img src="/perfil.png" alt=""/>
                     </Box>
                 </Flex>
         
