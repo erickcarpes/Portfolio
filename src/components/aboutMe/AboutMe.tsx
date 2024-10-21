@@ -11,7 +11,6 @@ export function AboutMe(){
                     
                     <Text mt={"15px"} textAlign={"justify"} fontFamily={"candara light"} fontSize={"17px"}>While still early in my academic career, I’ve already begun improving my skills in various programming languages and frameworks, consistently pushing myself to learn more. I’m particularly motivated by challenges that allow me to combine logic, creativity, and innovation to build effective solutions. Whether it’s a complex algorithm or an intuitive user interface, I bring a mindset of continuous improvement and adaptability to everything I do. </Text>
                     
-                    <Text mt={"15px"} textAlign={"justify"} fontFamily={"candara light"} fontSize={"17px"}>I believe in the power of teamwork, effective communication, and lifelong learning, all of which fuel my drive to evolve quickly and contribute meaningfully to the projects I take on.</Text>
                 </Box>
 
                 <Box>

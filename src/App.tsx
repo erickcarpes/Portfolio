@@ -1,7 +1,7 @@
 import { Header } from './components/header/Header';
 import { Navigation } from './components/navigation/Navigation';
 import { AboutMe } from './components/aboutMe/AboutMe';
-import { Career } from './components/career/Career';
+//import { Career } from './components/career/Career';
 import { Technologies } from './components/technologies/Technologies';
 import { Projects } from './components/projects/Projects';
 import { Footer
@@ -19,14 +19,13 @@ function App() {
           <Navigation />
           <AboutMe />
           <Divider />
-          <Career />
-          <Divider />
           <Technologies />
           <Divider />
           <Projects />
         </Flex>
       
         <Footer />
+
       </Box>
   </div>;
 }

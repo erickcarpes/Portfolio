@@ -53,7 +53,7 @@ export function Footer(){
             </Box>
 
             <Flex justifyContent={"space-between"} gap={"20px"}>
-                <Text textAlign={"left"}>© {new Date().getFullYear()} Erick Carpes - Todos os direitos reservados.</Text>
+                <Text textAlign={"left"}>© {new Date().getFullYear()} - Erick Carpes</Text>
                 <Text textAlign={"right"}>{calculateDaysUntilBirthday()}</Text>
             </Flex>
         </Flex> 

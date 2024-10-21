@@ -13,7 +13,7 @@ export function Projects(){
 
                         <Flex direction={"column"}>
                             <Text fontSize={"18px"}>Arithmetic Calculator</Text>
-                            <Text mt={"10px"}>This was my first project focused on frontend development, created with the goal of laying a strong foundation in this area. The main objective was to familiarize myself with essential frontend concepts, such as HTML, CSS, and JavaScript, while building a functional calculator. Through this project, I gained practical experience in creating responsive layouts, handling user input, and implementing basic interactivity. This project marked the beginning of my journey in frontend development, providing a solid base to continue improving and evolving.</Text>
+                            <Text mt={"10px"}>This was my first frontend project aimed at building a strong foundation. The goal was to learn key frontend concepts like HTML, CSS, and JavaScript by creating a functional calculator. I gained experience in responsive design, user input handling, and basic interactivity, marking the start of my frontend development journey.</Text>
                             <Text mt={"10px"} fontFamily={"candara light"}>Technologies used: HTML, CSS, Javascript.</Text>
                         </Flex>
 
@@ -37,7 +37,7 @@ export function Projects(){
 
                         <Flex direction={"column"}>
                             <Text fontSize={"18px"}>Currency Conversor</Text>
-                            <Text mt={"10px"}>This project was a step up in complexity compared to my previous work with a calculator. The primary goal was to deepen my understanding of frontend development by tackling more challenging features, such as state management and responsive design. Additionally, this was my first exposure to working with APIs, which allowed me to gain hands-on experience in fetching and integrating dynamic data from external sources.</Text>
+                            <Text mt={"10px"}>This project was more complex than my previous calculator work, focusing on enhancing my frontend skills with features like state management and API integration. It gave me hands-on experience in fetching dynamic data from external sources.</Text>
                             <Text mt={"10px"} fontFamily={"candara light"}>Technologies used: HTML, CSS, Javascript, API's.</Text>
                         </Flex>
 
@@ -62,7 +62,7 @@ export function Projects(){
 
                         <Flex direction={"column"}>
                             <Text fontSize={"18px"}>Movies and reviews database</Text>
-                            <Text mt={"10px"}>This project was my first backend experience, focused on building a movie review platform with CRUD functionality for users, reviews, and films. The project involved creating APIs, managing a database, and handling server-side logic. It also helped me understand how to manage relationships between models, while improving my skills in database operations and full-stack architecture.</Text>
+                            <Text mt={"10px"}>This was my first backend project, where I built a movie review platform with CRUD functionality for users, reviews, and films. It involved creating APIs, managing a database, handling server-side logic, and understanding model relationships, improving my skills in database operations and full-stack architecture.</Text>
                             <Text mt={"10px"} fontFamily={"candara light"}>Technologies used: Typescript, Node.js, Prisma, MongoDB.</Text>
                         </Flex>
 
